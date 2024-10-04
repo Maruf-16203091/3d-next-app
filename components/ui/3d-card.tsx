@@ -16,7 +16,7 @@ export const CardBody = ({ children, className }: { children: React.ReactNode; c
 };
 
 export const CardItem = ({ as: Tag = "div", children, className, translateX = 0, translateY = 0, translateZ = 0, rotateX = 0, rotateY = 0, rotateZ = 0, ...rest }: { as?: React.ElementType; children: React.ReactNode; className?: string; translateX?: number | string; translateY?: number | string; translateZ?: number | string; rotateX?: number | string; rotateY?: number | string; rotateZ?: number | string; [key: string]: any; }) => {
-  // Same as provided in the code snippet
+  // Same as provided in the code snippet testing
   // ...
 };
 
